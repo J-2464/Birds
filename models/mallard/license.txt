@@ -1,0 +1,8 @@
+Model Information:
+* title:	Duck
+* source:	https://sketchfab.com/3d-models/duck-6b9f2a76ddcc4738895ca81b0761b680
+* author:	The Minecraft Magpie (https://sketchfab.com/golfballgoofy)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

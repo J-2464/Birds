@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bird low poly Animation
+* source:	https://sketchfab.com/3d-models/bird-low-poly-animation-1e485a9b3ab24c37aefd2b43ec506831
+* author:	carbofos (https://sketchfab.com/carbofos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bird low poly Animation" (https://sketchfab.com/3d-models/bird-low-poly-animation-1e485a9b3ab24c37aefd2b43ec506831) by carbofos (https://sketchfab.com/carbofos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
