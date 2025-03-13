@@ -9,13 +9,13 @@ import { FontLoader } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/l
 import { OrbitControls } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/controls/OrbitControls.js'; // Corrected path
 import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/loaders/GLTFLoader.js';
 
-import { config } from './config.js';
+import { config } from 'config.js';
 
-import { updateValues } from './config.js';
+import { updateValues } from 'config.js';
 
-import { loadBirdModel, loadSounds, listener, musicBackground, jumpSFX, bird, correctSFX } from './loader.js';
+import { loadBirdModel, loadSounds, listener, musicBackground, jumpSFX, bird, correctSFX } from 'loader.js';
 
-import { equationGenerator, wrongAnswer } from './utils.js';
+import { equationGenerator, wrongAnswer } from 'utils.js';
 
 const startScreen = document.getElementById('startScreen')
 const resetBestButton = document.getElementById('resetBest')
