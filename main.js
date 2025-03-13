@@ -1,6 +1,6 @@
 import './style.css'
 
-import * as THREE from 'three';
+import * as THREE from 'https://cdn.skypack.dev/three';
 
 import { TextGeometry } from 'three/addons/geometries/TextGeometry.js';
 
