@@ -1,7 +1,10 @@
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'; // Ensure correct path to the loader
-import * as THREE from 'three';
-import { ColorNodeUniform } from 'three/src/renderers/common/nodes/NodeUniform.js';
-import { FontLoader } from 'three/examples/jsm/loaders/FontLoader.js';
+import * as THREE from 'https://cdn.skypack.dev/three@0.155.0'; // Replace with your desired version
+
+import { TextGeometry } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/geometries/TextGeometry.js';
+
+import { FontLoader } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/loaders/FontLoader.js';
+
+import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/loaders/GLTFLoader.js';
 
 
 export var bird = new THREE.Object3D;
