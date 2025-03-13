@@ -1,14 +1,13 @@
 import './style.css'
 
-import * as THREE from 'https://cdn.skypack.dev/three';
+import * as THREE from 'https://cdn.skypack.dev/three@0.155.0'; // Replace with your desired version
 
-import { TextGeometry } from 'three/addons/geometries/TextGeometry.js';
+import { TextGeometry } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/geometries/TextGeometry.js';
 
-import { FontLoader } from 'three/addons/loaders/FontLoader.js';
+import { FontLoader } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/loaders/FontLoader.js';
 
-import { generateMagicSquareNoise, OrbitControls, ThreeMFLoader } from 'three/examples/jsm/Addons.js';
-
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { OrbitControls } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/controls/OrbitControls.js'; // Corrected path
+import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.155.0/examples/jsm/loaders/GLTFLoader.js';
 
 import { config } from './config.js';
 
