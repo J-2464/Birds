@@ -23,7 +23,7 @@ const deathScreen = document.getElementById('deathScreen');
 const restartButton = document.getElementById('restartButton');
 
 
-//html elems
+//html elems2
 let equationDisplay = document.getElementById('equation');
 
 
